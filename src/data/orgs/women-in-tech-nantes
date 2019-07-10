@@ -1,0 +1,13 @@
+{
+  "name": "Nantes WIT",
+  "country": "france",
+  "city": "nantes",
+  "topics": ["Tech"],
+  "mainLink": "https://twitter.com/nanteswit",
+  "secondaryLinks": [
+    {
+      "name": "Slack",
+      "url": "https://nantes-wit.slack.com"
+    }
+  ]
+}
